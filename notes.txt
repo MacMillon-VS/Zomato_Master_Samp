@@ -1,0 +1,2 @@
+if error in babel try this in package.json
+"start": "nodemon --exec ./node_modules/.bin/babel-node index"
